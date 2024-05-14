@@ -1,3 +1,3 @@
 # Storyboards
 
-![](Behance%20Thumbnails_storyboard.jpg)
+![](z-Attachments/Behance%20Thumbnails_storyboard.jpg)
