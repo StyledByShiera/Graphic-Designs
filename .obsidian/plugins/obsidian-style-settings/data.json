@@ -1,0 +1,18 @@
+{
+  "magicuser-theme-for-obsidian@@mu-presets-themes": "none",
+  "magicuser-theme-for-obsidian@@mu-sidebar-dark": true,
+  "magicuser-theme-for-obsidian@@mu-cards-interface": true,
+  "magicuser-theme-for-obsidian@@mu-text-bold@@light": "#FF1616",
+  "magicuser-theme-for-obsidian@@mu-text-bold@@dark": "#FF1616",
+  "magicuser-theme-for-obsidian@@mu-text-italic@@dark": "#FF9800",
+  "magicuser-theme-for-obsidian@@mu-underline-text-color-hex@@dark": "#F628FF",
+  "magicuser-theme-for-obsidian@@mu-neon-mode": true,
+  "magicuser-theme-for-obsidian@@mu-outline-neon-mode": true,
+  "magicuser-theme-for-obsidian@@mu-neon-mode-glow-value": 0.3,
+  "magicuser-theme-for-obsidian@@mu-h2@@dark": "#04FF00",
+  "magicuser-theme-for-obsidian@@mu-h1@@dark": "#FE5EFF",
+  "magicuser-theme-for-obsidian@@mu-h3@@dark": "#00FFD5",
+  "magicuser-theme-for-obsidian@@mu-h4@@dark": "#FFB600",
+  "magicuser-theme-for-obsidian@@mu-h5@@dark": "#FF5EBB",
+  "magicuser-theme-for-obsidian@@mu-h6@@dark": "#F0FF00"
+}

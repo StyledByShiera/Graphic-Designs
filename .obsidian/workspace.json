@@ -1,0 +1,414 @@
+{
+  "main": {
+    "id": "15586f07c616aa7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "263dd714d90de221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aac62332702aefd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Call Out.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b2fa4bd7c85024c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e7ff06007a21abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Placement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5f5d69344f0c160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company ID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d569e789423e7f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc84d1983b7d92e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df13fc0324f0b19a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invitation Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8480b7040bafc129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flyers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56487a5c7f9455c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Estate Marketing Ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1b7cd0a44833803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "267778171e0d716a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de4d727d90f828ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0753dea2e79b8310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarpaulins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73dba1fa9bf2c8ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catering Menus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1768aca6780ac33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Office Collaterals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b86909eaa589959c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df24b2bbbf8a961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Media Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "330b2a43d9a83a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vlogs and Video Editing Ads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f9f36c460afe477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storyboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3864e45b0e717f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ae8ce47d9a23e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f4ebed19b4327d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd1d9b0cdd744ddd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "130876516bf93dad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "098b2dd94a7f1398",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d35deebf01f14d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "437f026dfd457b81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storyboards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abee794ae3a1b9b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storyboards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c61eccdb5022b8ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89d45bcbb70a1820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Storyboards.md"
+              }
+            }
+          },
+          {
+            "id": "282aa374deceb059",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e87fb5a35869a81e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "2f9f36c460afe477",
+  "lastOpenFiles": [
+    "Vlogs and Video Editing Ads.md",
+    "Storyboards.md",
+    "Social Media Contents.md",
+    "GIF.md",
+    "Office Collaterals.md",
+    "Catering Menus.md",
+    "Tarpaulins.md",
+    "Logo.md",
+    "Business Cards.md",
+    "Presentation.md",
+    "Real Estate Marketing Ads.md",
+    "Flyers.md",
+    "Invitation Cards.md",
+    "Banner.md",
+    "Itinerary.md",
+    "Company ID.md",
+    "Product Placement.md",
+    "Tags.md",
+    "Template/Call Out.md",
+    "Tags",
+    "Welcome.md",
+    "Template",
+    "z-Attachments"
+  ]
+}
