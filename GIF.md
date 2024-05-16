@@ -4,7 +4,9 @@
 
 GIF - Motion Graphics Design
 
-![](z-Attachments/GIF%202%20-%20README.mp4)
+![](z-Attachments/ReadMeGIF-ezgif.com-video-to-gif-converter.gif)
 
-![](z-Attachments/StyledByShiera%20GIF%202.mp4)
+![](z-Attachments/GitHub%20Obsidian%20README%20GIF%201.gif)
+
+![](z-Attachments/StyledByShieraGIF2-ezgif.com-video-to-gif-converter.gif)
 
