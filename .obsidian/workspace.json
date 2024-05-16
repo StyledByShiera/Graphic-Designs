@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aac62332702aefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Call Out.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b2fa4bd7c85024c",
             "type": "leaf",
             "state": {
@@ -44,18 +32,6 @@
             }
           },
           {
-            "id": "b5f5d69344f0c160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company ID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d569e789423e7f7e",
             "type": "leaf",
             "state": {
@@ -68,36 +44,12 @@
             }
           },
           {
-            "id": "dc84d1983b7d92e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df13fc0324f0b19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Invitation Cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8480b7040bafc129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flyers.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,18 +80,6 @@
             }
           },
           {
-            "id": "267778171e0d716a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de4d727d90f828ae",
             "type": "leaf",
             "state": {
@@ -158,18 +98,6 @@
               "type": "markdown",
               "state": {
                 "file": "Tarpaulins.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73dba1fa9bf2c8ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catering Menus.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,26 +145,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vlogs and Video Editing Ads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f9f36c460afe477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flyers.md",
+                "file": "Notes/Learning Phase.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -302,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flyers.md",
+                "file": "Notes/Learning Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flyers.md",
+                "file": "Notes/Learning Phase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flyers.md"
+                "file": "Notes/Learning Phase.md"
               }
             }
           },
@@ -385,39 +301,41 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f9f36c460afe477",
+  "active": "330b2a43d9a83a91",
   "lastOpenFiles": [
+    "z-Attachments/Screenshot 2024-05-16 at 4.21.06 PM.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.19.08 PM.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.14.08 PM.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.07.04 PM.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.04.54 PM 2.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.04.54 PM 1.png",
+    "z-Attachments/Screenshot 2024-05-16 at 4.04.54 PM.png",
+    "Vlogs and Video Editing Ads.md",
+    "Notes/Learning Phase.md",
+    "Notes",
+    "Flyers.md",
+    "Social Media Contents.md",
+    "GIF.md",
+    "Office Collaterals.md",
+    "Tarpaulins.md",
+    "Logo.md",
+    "Presentation.md",
+    "Real Estate Marketing Ads.md",
+    "Invitation Cards.md",
+    "Itinerary.md",
+    "Product Placement.md",
+    "Tags.md",
+    "Template/Call Out.md",
+    "Company ID.md",
+    "Banner.md",
+    "Catering Menus.md",
+    "Business Cards.md",
     "z-Attachments/Flyers 2-2.jpg",
     "z-Attachments/Flyers 2-1.jpg",
     "z-Attachments/Flyers 1-2.jpg",
     "z-Attachments/Flyers 1-1.jpg",
-    "Company ID.md",
-    "z-Attachments/ID 2.jpg",
-    "z-Attachments/ID 1.jpg",
-    "z-Attachments/Company IDs_Print Out.jpg",
-    "Catering Menus.md",
-    "Business Cards.md",
-    "Banner.md",
-    "z-Attachments/Blessedweng Menu -8.jpg",
-    "z-Attachments/Blessedweng Menu -7.jpg",
-    "z-Attachments/Blessedweng Menu -6.jpg",
-    "z-Attachments/Blessedweng Menu -5.jpg",
-    "Vlogs and Video Editing Ads.md",
-    "Tarpaulins.md",
-    "Tags.md",
     "Storyboards.md",
-    "Social Media Contents.md",
-    "Real Estate Marketing Ads.md",
     "README.md",
-    "Product Placement.md",
-    "Presentation.md",
-    "Office Collaterals.md",
-    "Logo.md",
-    "Itinerary.md",
-    "Invitation Cards.md",
-    "GIF.md",
-    "Flyers.md",
-    "Template/Call Out.md",
     "Tags",
     "Welcome.md",
     "Template",

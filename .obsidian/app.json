@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "z-Attachments",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newLinkFormat": "relative"
 }
