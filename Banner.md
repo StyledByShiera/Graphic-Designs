@@ -17,3 +17,4 @@ Visual Identity - Banner for a Client
 ![](z-Attachments/Banner%203.jpg) 
 
 ![](z-Attachments/Office%20Collateral%20Design%206-2.jpg)
+
