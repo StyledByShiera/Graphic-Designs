@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Office Collaterals.md",
+                "file": "Product Placement.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Office Collaterals.md",
+                "file": "Product Placement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Office Collaterals.md",
+                "file": "Product Placement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Office Collaterals.md"
+                "file": "Product Placement.md"
               }
             }
           },
@@ -303,23 +303,22 @@
   },
   "active": "330b2a43d9a83a91",
   "lastOpenFiles": [
-    "z-Attachments/Office Collateral Design 6-2 1.jpg",
-    "z-Attachments/Office Collateral Design 6-1.jpg",
-    "z-Attachments/Office Collateral Design 5-3.jpg",
-    "z-Attachments/Office Collateral Design 5-2.jpg",
-    "z-Attachments/Office Collateral Design 5-1.jpg",
-    "z-Attachments/Office Collateral Design 4-2.jpg",
-    "z-Attachments/Office Collateral Design 4-1.jpg",
-    "z-Attachments/Office Collateral Design 3-3.jpg",
-    "z-Attachments/Office Collateral Design 3-2.jpg",
-    "z-Attachments/Office Collateral Design 3-1.jpg",
-    "z-Attachments/Office Collateral Design 2-2.jpg",
+    "Presentation.md",
+    "z-Attachments/Agent_Jepte Marketing Ads-10.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-09.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-08.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-07.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-06.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-05.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-04.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-03.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-02.jpg",
+    "z-Attachments/Agent_Jepte Marketing Ads-01.jpg",
+    "Office Collaterals.md",
     "Logo.md",
     "Itinerary.md",
-    "Presentation.md",
     "Banner.md",
     "Template/Call Out.md",
-    "Office Collaterals.md",
     "GIF.md",
     "Business Cards.md",
     "Catering Menus.md",
