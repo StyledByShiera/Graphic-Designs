@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Product Placement.md",
+                "file": "Real Estate Marketing Ads.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product Placement.md",
+                "file": "Real Estate Marketing Ads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Product Placement.md",
+                "file": "Real Estate Marketing Ads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product Placement.md"
+                "file": "Real Estate Marketing Ads.md"
               }
             }
           },
@@ -303,17 +303,18 @@
   },
   "active": "330b2a43d9a83a91",
   "lastOpenFiles": [
+    "Product Placement.md",
+    "z-Attachments/Product Placement_Pre-loved Items.png",
+    "z-Attachments/Product Placement_Enlighten-8.jpg",
+    "z-Attachments/Product Placement_Enlighten-7.jpg",
+    "z-Attachments/Product Placement_Enlighten-6.jpg",
+    "z-Attachments/Product Placement_Enlighten-5.jpg",
+    "z-Attachments/Product Placement_Enlighten-4.jpg",
+    "z-Attachments/Product Placement_Enlighten-3.jpg",
+    "z-Attachments/Product Placement_Enlighten-2.jpg",
+    "z-Attachments/Product Placement_Enlighten-1.jpg",
     "Presentation.md",
     "z-Attachments/Agent_Jepte Marketing Ads-10.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-09.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-08.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-07.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-06.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-05.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-04.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-03.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-02.jpg",
-    "z-Attachments/Agent_Jepte Marketing Ads-01.jpg",
     "Office Collaterals.md",
     "Logo.md",
     "Itinerary.md",
@@ -333,7 +334,6 @@
     "Social Media Contents.md",
     "Tarpaulins.md",
     "Real Estate Marketing Ads.md",
-    "Product Placement.md",
     "Tags.md",
     "Storyboards.md",
     "README.md",
