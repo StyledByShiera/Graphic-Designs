@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storyboards.md",
+                "file": "Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storyboards.md",
+                "file": "Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storyboards.md",
+                "file": "Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storyboards.md"
+                "file": "Tags.md"
               }
             }
           },
@@ -303,18 +303,19 @@
   },
   "active": "330b2a43d9a83a91",
   "lastOpenFiles": [
+    "z-Attachments/Give Away Tags-7.jpg",
+    "z-Attachments/Give Away Tags-6.jpg",
+    "z-Attachments/Give Away Tags-5.jpg",
+    "z-Attachments/Give Away Tags-4.jpg",
+    "z-Attachments/Give Away Tags-3.jpg",
+    "z-Attachments/Give Away Tags-2.jpg",
+    "z-Attachments/Give Away Tags-1.jpg",
+    "Storyboards.md",
     "z-Attachments/StyledByShiera - Storyboard.jpg",
     "Social Media Contents.md",
     "z-Attachments/72.png",
     "z-Attachments/71.png",
     "z-Attachments/70.png",
-    "z-Attachments/69.png",
-    "z-Attachments/68.png",
-    "z-Attachments/67.png",
-    "z-Attachments/66.png",
-    "z-Attachments/65.png",
-    "z-Attachments/64.png",
-    "z-Attachments/63.png",
     "Real Estate Marketing Ads.md",
     "Product Placement.md",
     "Presentation.md",
@@ -336,7 +337,6 @@
     "Notes",
     "Tarpaulins.md",
     "Tags.md",
-    "Storyboards.md",
     "README.md",
     "Tags",
     "Welcome.md",
