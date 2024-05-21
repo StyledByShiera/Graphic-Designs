@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags.md",
+                "file": "Tarpaulins.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "Tarpaulins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags.md",
+                "file": "Tarpaulins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags.md"
+                "file": "Tarpaulins.md"
               }
             }
           },
@@ -303,6 +303,11 @@
   },
   "active": "330b2a43d9a83a91",
   "lastOpenFiles": [
+    "z-Attachments/Tarpaulin 1-2.jpg",
+    "z-Attachments/Tarpaulin 1-1.jpg",
+    "z-Attachments/Tarpaulin 3.png",
+    "z-Attachments/Tarpaulin 2.png",
+    "Tags.md",
     "z-Attachments/Give Away Tags-7.jpg",
     "z-Attachments/Give Away Tags-6.jpg",
     "z-Attachments/Give Away Tags-5.jpg",
@@ -311,11 +316,7 @@
     "z-Attachments/Give Away Tags-2.jpg",
     "z-Attachments/Give Away Tags-1.jpg",
     "Storyboards.md",
-    "z-Attachments/StyledByShiera - Storyboard.jpg",
     "Social Media Contents.md",
-    "z-Attachments/72.png",
-    "z-Attachments/71.png",
-    "z-Attachments/70.png",
     "Real Estate Marketing Ads.md",
     "Product Placement.md",
     "Presentation.md",
@@ -336,7 +337,6 @@
     "Vlogs and Video Editing Ads.md",
     "Notes",
     "Tarpaulins.md",
-    "Tags.md",
     "README.md",
     "Tags",
     "Welcome.md",
